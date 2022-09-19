@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf?98353b5e9709cae8aa6e7f88df8a78aa") format("truetype"),
+url("../fonts/flaticon.woff?98353b5e9709cae8aa6e7f88df8a78aa") format("woff"),
+url("../fonts/flaticon.woff2?98353b5e9709cae8aa6e7f88df8a78aa") format("woff2"),
+url("../fonts/flaticon.eot?98353b5e9709cae8aa6e7f88df8a78aa#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.svg?98353b5e9709cae8aa6e7f88df8a78aa#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-splash:before {
+    content: "\f101";
+}
+.flaticon-data-analysis:before {
+    content: "\f102";
+}
+.flaticon-monitoring:before {
+    content: "\f103";
+}
+.flaticon-fast-delivery:before {
+    content: "\f104";
+}
+.flaticon-increasing:before {
+    content: "\f105";
+}
+.flaticon-layers:before {
+    content: "\f106";
+}
+.flaticon-development:before {
+    content: "\f107";
+}
+.flaticon-quote:before {
+    content: "\f108";
+}
+.flaticon-market:before {
+    content: "\f109";
+}
+.flaticon-pie-chart:before {
+    content: "\f10a";
+}
+.flaticon-quote-1:before {
+    content: "\f10b";
+}
+.flaticon-software:before {
+    content: "\f10c";
+}
+.flaticon-trophy:before {
+    content: "\f10d";
+}
+.flaticon-group:before {
+    content: "\f10e";
+}
+.flaticon-play-button:before {
+    content: "\f10f";
+}
+.flaticon-sharing:before {
+    content: "\f110";
+}
+.flaticon-edit:before {
+    content: "\f111";
+}
+.flaticon-chat:before {
+    content: "\f112";
+}
+.flaticon-file:before {
+    content: "\f113";
+}
+.flaticon-responsive-design:before {
+    content: "\f114";
+}
+.flaticon-security:before {
+    content: "\f115";
+}
+.flaticon-puzzle:before {
+    content: "\f116";
+}
+.flaticon-badge:before {
+    content: "\f117";
+}
+.flaticon-analytics:before {
+    content: "\f118";
+}
+.flaticon-quotation:before {
+    content: "\f119";
+}
